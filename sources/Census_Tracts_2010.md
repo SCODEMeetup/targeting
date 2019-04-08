@@ -3,18 +3,21 @@
 Last Updated: May 9, 2018, 7:23 PM (UTC-04:00)
 
 Description: 2010 Census tracts for the 12 county Central Ohio region
-- Delaware
-- Fairfield
-- Fayette
-- Franklin
-- Knox
-- Licking
-- Madison
-- Marion
-- Morrow
-- Pickaway
-- Ross
-- Union
+
+| County Value 	| County Name 	|
+|:------------:	|:-----------:	|
+|      041     	|   Delaware  	|
+|      045     	|  Fairfield  	|
+|      047     	|   Fayette   	|
+|      049     	|   Franklin  	|
+|      083     	|     Knox    	|
+|      089     	|   Licking   	|
+|      097     	|   Madison   	|
+|      101     	|    Marion   	|
+|      117     	|    Morrow   	|
+|      129     	|   Pickaway  	|
+|      141     	|     Ross    	|
+|      159     	|     Union   	|
 ---
 [Homepage URL](http://public-morpc.opendata.arcgis.com/datasets/695d39cd98a148b7911a66e290bbcacf_0)
 
