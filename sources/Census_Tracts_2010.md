@@ -1,4 +1,4 @@
-[Smart Columbus Operating System link](https://ckan.smartcolumbusos.com/dataset/census-tracts-20101/resource/ec612b30-5d45-4c80-994a-6e172267f802)
+[Smart Columbus Operating System link](https://ckan.smartcolumbusos.com/dataset/census-tracts-20101)
 
 Last Updated: May 9, 2018, 7:23 PM (UTC-04:00)
 
